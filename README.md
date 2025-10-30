@@ -1,6 +1,6 @@
 # 👩‍💼 IBM HR Analytics – Employee Attrition & Performance
 
-**Author:** Sasi Manivanna  
+**Author:** Sasi Manivannan 
 
 This project analyzes employee attrition patterns using the **IBM HR Analytics Employee Attrition & Performance** dataset.  
 It applies multiple machine learning classification models to predict whether an employee is likely to leave the company.
@@ -96,4 +96,4 @@ The models were evaluated using the following metrics:
 ---
 
 ## Author
-**Sasi Manivanna**
+**Sasi Manivannan**
